@@ -1,1 +1,0 @@
-# CRM Vertica Browser Script
